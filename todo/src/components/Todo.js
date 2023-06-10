@@ -23,7 +23,7 @@ function Todo(props) {
         </button>
       </div>
       {showModal && <Backdrop onClick={closeModalHandler} />}
-      {showModal && <Modal text='Are you sure?' onClose={closeModalHandler} />}
+      {showModal && <Modal text='Are you sure?' onClose={closeModalHandler} onDelete={props.delete} id={props.id}/>}
     </div>
   );
 }

@@ -5,7 +5,7 @@ function Modal(props) {
       <button className='btn btn--alt' onClick={props.onClose}>
         Cancel
       </button>
-      <button className='btn' onClick={props.onClose}>
+      <button className='btn' onClick={( ) => {props.onDelete(props.id)}}>
         Confirm
       </button>
     </div>
