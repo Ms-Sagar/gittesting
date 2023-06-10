@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gittesting/static/css/main.7ade6cb7.css",
+    "main.js": "/gittesting/static/js/main.0adf84a5.js",
+    "static/js/787.63e47474.chunk.js": "/gittesting/static/js/787.63e47474.chunk.js",
+    "index.html": "/gittesting/index.html",
+    "main.7ade6cb7.css.map": "/gittesting/static/css/main.7ade6cb7.css.map",
+    "main.0adf84a5.js.map": "/gittesting/static/js/main.0adf84a5.js.map",
+    "787.63e47474.chunk.js.map": "/gittesting/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ade6cb7.css",
+    "static/js/main.0adf84a5.js"
+  ]
+}
